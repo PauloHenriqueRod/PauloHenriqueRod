@@ -1,4 +1,4 @@
-### Olá, eu sou o PauloHenriqueRod
+### Olá, eu sou o Paulo Henrique
 
 
 - 🔭 Eu atualmente estou estudando Ciência da Computação na Universidade Federal do Piauí, e em busca da minha primeira oportunidade de estágio na área de dados.
