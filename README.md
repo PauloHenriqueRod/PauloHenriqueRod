@@ -8,7 +8,7 @@
 - 
   <div>
   <a href="https://github.com/PauloHenriqueRod">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueRod&show_icons=true&bg_color=831d1c"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueRod&layout=compact&langs_count=8&bg_color=831d1c"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueRod&show_icons=true&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueRod&layout=compact&langs_count=8&theme=dark&exclude_repo=projetos-ada-suzano"/>
 </div>
 
